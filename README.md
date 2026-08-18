@@ -8,4 +8,4 @@ I'm an [AGG Quote Master](https://en.wikipedia.org/wiki/Aldo,_Giovanni_e_Giacomo
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats-nine-alpha-15.vercel.app/api?username=teckperry&count_private=true&show_icons=true&hide_title=true&theme=dark">
+![GitHub Stats](./profile/stats.svg)
