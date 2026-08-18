@@ -9,3 +9,7 @@ I'm an [AGG Quote Master](https://en.wikipedia.org/wiki/Aldo,_Giovanni_e_Giacomo
 ## GitHub Stats
 
 ![GitHub Stats](./profile/stats.svg)
+
+## Languages
+
+![Languages](./profile/languages.svg)
