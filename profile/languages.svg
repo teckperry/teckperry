@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">teckperry&#39;s languages</title>
-  <desc id="descId">Terraform: 52.1%, YAML: 15.4%, TypeScript: 11.4%, JSON: 8.8%, Markdown: 5.2%, Python: 4.1%, Other: 3.2%. calculated analyzing all 742 pull requests</desc>
+  <desc id="descId">Terraform: 52.1%, YAML: 15.4%, TypeScript: 11.4%, JSON: 8.8%, Markdown: 5.2%, Python: 4.1%, Other: 3.2%. calculated analyzing all 743 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -101,6 +101,6 @@
         <text class="share" x="199.5" y="11" text-anchor="end">3.2%</text>
       </g>
     </g>
-    <text class="note" x="0" y="100">calculated analyzing all 742 pull requests</text>
+    <text class="note" x="0" y="100">calculated analyzing all 743 pull requests</text>
   </g>
 </svg>
