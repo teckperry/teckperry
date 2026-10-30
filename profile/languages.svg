@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">teckperry&#39;s languages</title>
-  <desc id="descId">Terraform: 50.2%, YAML: 13.8%, JSON: 11.7%, TypeScript: 10.4%, Markdown: 7.2%, Python: 3.3%, Other: 3.4%. calculated analyzing all 849 pull requests</desc>
+  <desc id="descId">Terraform: 50.2%, YAML: 13.7%, JSON: 11.7%, TypeScript: 10.4%, Markdown: 7.2%, Python: 3.3%, Other: 3.4%. calculated analyzing the latest 852 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -73,7 +73,7 @@
       <g class="entry" style="animation-delay: 190ms" transform="translate(211.5, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-1)"/>
         <text class="name" x="16" y="11">YAML</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">13.8%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">13.7%</text>
       </g>
       <g class="entry" style="animation-delay: 260ms" transform="translate(0.0, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-2)"/>
@@ -101,6 +101,6 @@
         <text class="share" x="199.5" y="11" text-anchor="end">3.4%</text>
       </g>
     </g>
-    <text class="note" x="0" y="100">calculated analyzing all 849 pull requests</text>
+    <text class="note" x="0" y="100">calculated analyzing the latest 852 pull requests</text>
   </g>
 </svg>
